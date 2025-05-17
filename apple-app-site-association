@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "QSFW5CUSZ4.com.twinstar.VoiceTranscribe",
+        "paths": [ "/note/*" ]
+      }
+    ]
+  }
+}
